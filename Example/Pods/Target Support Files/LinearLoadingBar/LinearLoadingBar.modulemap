@@ -1,0 +1,6 @@
+framework module LinearLoadingBar {
+  umbrella header "LinearLoadingBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

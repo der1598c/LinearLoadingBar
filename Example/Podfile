@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LinearLoadingBar_Example' do
+  pod 'LinearLoadingBar', :path => '../'
+
+  target 'LinearLoadingBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

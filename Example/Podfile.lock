@@ -1,0 +1,16 @@
+PODS:
+  - LinearLoadingBar (0.1.0)
+
+DEPENDENCIES:
+  - LinearLoadingBar (from `../`)
+
+EXTERNAL SOURCES:
+  LinearLoadingBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LinearLoadingBar: c00d3b90202ff0eac02d320e18e5b4e49d97bb38
+
+PODFILE CHECKSUM: 6c4c7af2ba48bc33906da4ab1c37a56aca4795f4
+
+COCOAPODS: 1.6.1
